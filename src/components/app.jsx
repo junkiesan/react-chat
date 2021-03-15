@@ -1,4 +1,5 @@
-import { chatEngine } from 'react-chat-engine';
+import { ChatEngine } from 'react-chat-engine';
+import React from 'react';
 
 const App = () => {
   return (
