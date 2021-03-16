@@ -1,17 +1,22 @@
-# react-boilerplate
+# [Chat Application](https://junkiesan.github.io/react-chat/)
 
-Simple react starter with the following config:
+A small chat application made for fun.
 
-- React, ReactDOM
-- Webpack 4
-- Babel with es2015 and react presets
-- Bootstrap (css only, loaded from a cdn in `index.html`)
-- work with `.js` or `.jsx` files
-- main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
+I used the following technologies:
+* React
+* Chat Engine
+* Sass
+* Webpack
+* Babel
+* Github Pages
+
+## Production
+
+The project is hosted on Github Pages, a product that I often use on other small apps.
 
 ## Scripts
 
-To start the local Webpack Dev Server (usually on port `8080`):
+After forking the project you can start the local Webpack Dev Server (usually on port `8080`):
 
 ```bash
 yarn start
@@ -28,3 +33,7 @@ To build and deploy your app to `gh-pages` branch on the GitHub repo:
 ```bash
 yarn deploy
 ```
+
+## Contributions
+
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
